@@ -21,7 +21,7 @@ function fugive(el) {
 function fuchek() {
   console.log(hername);
   if (hername == 'Аліна' || hername == 'аліна' || hername == 'Ангеліна' || hername == 'ангеліна' || hername == 'Аліна Єрмійчук') {
-  window.location = 'https://www.youtube.com/';
+  window.location = 'https://arturw15.github.io/onemore/';
   }
   else if (hername == 'Денис') {
      document.write('Ти жартуєш?');
